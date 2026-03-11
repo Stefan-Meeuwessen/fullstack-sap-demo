@@ -1,0 +1,10 @@
+LSS-HASHES
+Hash: SHA256
+
+5fda8fabbd8cefbd9da79415315ee544608d78b579177f700acd7916a4926827   PACKAGEDATA
+04d8ec9bdc05cfa8375cdf67973245033761ff7dc904b7d82c16b7e5568354da   files.lst
+f2bc8d91f1a2d78d127c634f74b1a9b32d30ddb29477b95ed0070063e21f5ff1   ado.net/libadonetHDB.pdb
+c8ede9c37a3e1ac5c8185018e8f260154d07d294ddff15bc4266e4b69f8f7619   ado.net/libadonetHDB32.pdb
+6985e4015a75a61c2e13ac5e6a17893d9779df1810340f99051c59426bd7bcac   ado.net/v3.5/Sap.Data.Hana.v3.5.pdb
+b82e940c9e719bc639b530de6a3476161ef873abcd14150131ff4d04bc07296f   ado.net/v3.5/Sap.VSPackage.Hana.pdb
+d7c5ac5e8e2ef4190a4be8e02966ad2af8214646cd84055b54a31335ff0773c3   ado.net/v4.5/Sap.Data.Hana.v4.5.pdb
